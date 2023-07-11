@@ -2,4 +2,4 @@
 
 A nice app with a questionary about a lot of topics.
 
-![](https://github.com/camilo-17/quiz-app/assets/quiz.gif)
+![](https://github.com/camilo-17/quiz-app/assets/app.png)
